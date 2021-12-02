@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T00:54:36.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="RJJPFcvGaJfrjwEyj3N4" version="15.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-02T00:59:52.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="4MlCJuQe3h_ZX2EKzQBi" version="15.8.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,23 +84,26 @@
         <mxCell id="VICkbCUfEh80slru4ddQ-12" value="Parts in stock" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="545" y="220" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VICkbCUfEh80slru4ddQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VICkbCUfEh80slru4ddQ-13">
+        <mxCell id="VICkbCUfEh80slru4ddQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="VICkbCUfEh80slru4ddQ-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="310" as="targetPoint" />
+            <mxPoint x="660" y="240" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="660" y="290" />
-              <mxPoint x="660" y="290" />
+              <mxPoint x="660" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VICkbCUfEh80slru4ddQ-13" value="yes&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="655" y="210" width="30" height="20" as="geometry" />
+          <mxGeometry x="670" y="210" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VICkbCUfEh80slru4ddQ-15" value="no&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="655" y="250" width="30" height="20" as="geometry" />
+          <mxGeometry x="670" y="270" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VICkbCUfEh80slru4ddQ-16" value="Order sits in josses out of stock que" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VICkbCUfEh80slru4ddQ-17" value="Julia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="40" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
